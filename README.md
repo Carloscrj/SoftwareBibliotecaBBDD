@@ -4,10 +4,10 @@ La información de cada Autor está formada por sus
 iniciales, su nombre y su nacionalidad y la información de cada Libro está 
 formada por título, autor y número de páginas. 
 Crea las clases Autor y Libro para manejar objetos con información de 
-autores y libros.
+autores y libros.  
 Crea una clase AccesoBibliotecaDB que se encargue de establecer la 
 conexión con la base de datos, contenga los métodos necesarios para 
-manipular la información y un método para cerrar la conexión.
+manipular la información y un método para cerrar la conexión.  
 Crea una clase ejecutable GestionBiblioteca que cree una instancia de la 
 clase AccesoBibliotecaDB y que muestre un menú con las siguientes 
 opciones:
