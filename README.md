@@ -18,8 +18,8 @@ opciones:
 - Introducir S para terminar el proceso.
 Si el usuario introduce IL se le deberán pedir los datos del autor y los datos 
 del libro. Antes de insertar el autor se deberá comprobar si existe, solo 
-habrá que insertarlo si no existe.
+habrá que insertarlo si no existe.  
 Si el usuario introduce ML se le deberá pedir el título del libro y el nuevo 
-número de páginas.
+número de páginas.  
 En cada caso habrá que invocar al correspondiente método de la clase 
 AccesoBibliotecaDB. No hay que olvidarse de cerrar la conexión.
