@@ -16,6 +16,7 @@ opciones:
 - Introducir CT para consultar todos los libros.
 - Introducir CL para consultar los libros con más de 300 páginas.
 - Introducir S para terminar el proceso.  
+
 Si el usuario introduce IL se le deberán pedir los datos del autor y los datos 
 del libro. Antes de insertar el autor se deberá comprobar si existe, solo 
 habrá que insertarlo si no existe.  
