@@ -1,5 +1,5 @@
 # SoftwareBibliotecaBBDD
-Creación de una base de datos DB4O biblioteca.yap para almacenar información  sobre autores y libros.
+Creación de una base de datos DB4O biblioteca.yap para almacenar información  sobre autores y libros.  
 La información de cada Autor está formada por sus 
 iniciales, su nombre y su nacionalidad y la información de cada Libro está 
 formada por título, autor y número de páginas. 
